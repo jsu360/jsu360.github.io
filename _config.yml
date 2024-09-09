@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my photo.png"
   name             : "苏佳敏"
   pronouns         : # example: "she/her"  
   bio              : "MY RESEARCH INTERESTS LIE IN THE FIELDS OF NATURAL LANGUAGE PROCESSING AND LARGE LANGUAGE MODELS."
