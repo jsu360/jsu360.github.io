@@ -16,36 +16,36 @@ Education
 
 Research Experience
 ======
-1.Assistant, Iterative Analysis of Decoding Algorithms Performance for LDPC Codes
+1. Assistant, Iterative Analysis of Decoding Algorithms Performance for LDPC Codes
 
 * Improved the decoding accuracy by redefining the node state and removing some nodes based on SPA algorithm
 * Proved that the error rate of the improved algorithm is notably reduced compared with the traditional BP algorithm through simulation analysis and experimental verification
 
-2.Research Assistant, Establishment of GARCH Model Based on S&P500 Data
+2. Research Assistant, Establishment of GARCH Model Based on S&P500 Data
 
 * Carried out pre-processing of daily data from S&P500 by using R language modelling, analyzed the market performance of the share price and performed ARCH effect tests 
 * Made three model assumptions of normal, symmetric t-distribution and skewed t-distribution for innovation, performed residual tests and selected the most appropriate model for prediction by means of information criteria and Q-Q diagram
   
 Internship Experience
 ======
-1.Research Assistant, Huachuang Securities Research Institute
+1. Research Assistant, Huachuang Securities Research Institute
 
 * Conduct research on the current status and policies of the insurance industry’s layout in healthcare, wellness, and retirement, providing relevant investment recommendations to senior researchers
 * Utilize software such as Wind to collect and analyze securities market data, including stockbroker performance, price-earnings ratios, and other metrics, to support industry analysis.
 
-2.Research Assistant of National Economic Statistics Section, Xi’an Statistics Bureau
+2. Research Assistant of National Economic Statistics Section, Xi’an Statistics Bureau
 
 * Assisted in statistical monitoring and early warning of the city’s economic operation
 * Carried out analysis and study of major economic and social issues, and put forward macro-control advice under the guidance of the supervisor
 * Supported to organize, edit and provide comprehensive statistical data, and manage statistical data
 
-3.Assistant of the Project Department, Tarena International Inc.
+3. Assistant of the Project Department, Tarena International Inc.
 
 * Learned about Ubuntu virtual machine and Java language 
 * Responsible for the design and analysis of related modules in the system, as well as code development 
 * Worked harmoniously with the team to promote the realization of technical solutions and complete the system delivery with high quality
 
-4.Operations Assistant, DATONG Insurance Co. Ltd
+4. Operations Assistant, DATONG Insurance Co. Ltd
 
 * Participated in fitting and forecasting the company’s income based on R language
 * Established ARCH, GARCH, ARMA and GARMA models by using R language according to the five-year turnover data in the company database, and predicted the business turnover in the next quarter
