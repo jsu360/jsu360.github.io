@@ -22,33 +22,33 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "my photo.png"
-  name             : "苏佳敏"
+  name             : "Su Jiamin | 苏佳敏"
   pronouns         : # example: "she/her"  
   bio              : "MY RESEARCH INTERESTS LIE IN THE FIELDS OF NATURAL LANGUAGE PROCESSING AND LARGE LANGUAGE MODELS."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nansha District, Guangzhou City, Guangdong Province"
+  employer         : "The Hong Kong University of Science and Technology (Guangzhou)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jsu360.connect.hukst-gz.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jsu360"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
